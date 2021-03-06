@@ -1,0 +1,9 @@
+Gorm itu ORM untuk DB di Go, mirip2 sequelize
+Gin merupakan framework untuk membuat REST API nya (mirip2 express di JS)
+
+Ini sama kaya import package yang dibutuhkan
+import (
+	"github.com/febrianaditya/web-service-API/config"
+	"github.com/gin-gonic/gin"
+	"gorm.io/gorm"
+)
